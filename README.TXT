@@ -1,0 +1,1 @@
+Funcionalidades separadas en grupos
